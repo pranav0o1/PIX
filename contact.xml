@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="contact.xsl"?>
+<contact>
+  <name>Pranav Parge</name>
+  <address>Pune - India</address>
+  <phone1>+91 1 24 78 90 91</phone1>
+  <phone2>+91 1 00 26 81 99</phone2>
+  <email>pranav.parge@pix.com</email>
+</contact>
